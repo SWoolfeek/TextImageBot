@@ -1,5 +1,5 @@
 # TextImageBot
-My TelgramBot which take text sent to him, and send a picture back to you.
+My TelegramBot which take text sent to him, and send a picture back to you.
 
 DataBase - MySQL
 
