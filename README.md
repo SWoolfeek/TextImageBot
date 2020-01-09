@@ -1,4 +1,5 @@
 # TextImageBot
-My TelegramBot which create picture with text which you send to him.
+My TelgramBot which take text sent to him, and send a picture back to you.
 
+DataBase - MySQL
 Main file - telegram_bot.py
